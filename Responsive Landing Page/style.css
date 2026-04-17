@@ -549,7 +549,6 @@ html {
     border: none;
     background: transparent;
   }
-
   #mobile-nav-link {
     width: min(360px, 100%);
     max-width: 100%;
